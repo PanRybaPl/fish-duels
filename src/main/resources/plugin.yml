@@ -1,0 +1,7 @@
+name: Pojedynki
+version: 0.1
+main: pl.panryba.mc.duels.Plugin
+depend: [WorldGuard,WorldEdit,Hardcore]
+commands:
+  pojedynek:
+    usage: /<command> <nick gracza>
